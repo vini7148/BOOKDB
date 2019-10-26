@@ -55,6 +55,10 @@ mybooks.py
 
 NOTE: Before running the application please complete the empty fields in the sqlserver_config.py file, all fields are necessary and should be properly filed before executing the mybooks.py application
 
+## ScreenShot
+
+![MYBOOKS]()
+
 ## Deployment
 
 This application or the front end can be used to store the details of different books and a few alterations to the code can make this application to be used for any form of datastorage where the user can insert, modify and delete records in SQL databases with the click of a few onscreen buttons instead of the long SQL queries
