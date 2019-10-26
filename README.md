@@ -53,7 +53,7 @@ Now you can execute the front end application by
 mybooks.py
 ```
 
-NOTE: Before running the application please complete the empty fields in the sqlserver_config.py file, all fields are necessary and should be properly filed before executing the mybooks.py application
+**NOTE**: *Before running the application please complete the empty fields in the sqlserver_config.py file, all fields are necessary and should be properly filed before executing the mybooks.py application*
 
 ## ScreenShot
 
