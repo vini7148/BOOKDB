@@ -14,10 +14,16 @@ cd BOOKDB
 
 The following tools along with basic knowledge of python and SQL is required to execute this front end
 ```
-[python==3.7.3](https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe)
-[pypyodbc==1.3.5](https://pypi.org/project/pypyodbc/)
-[Microsoft sql server 2017](https://go.microsoft.com/fwlink/?linkid=853017)
+python==3.7.3
+pypyodbc==1.3.5
+Microsoft sql server 2017
 ```
+
+You can download these needed file using the links below
+
+* [python==3.7.3](https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe)
+* [pypyodbc==1.3.5](https://pypi.org/project/pypyodbc/)
+* [Microsoft sql server 2017](https://go.microsoft.com/fwlink/?linkid=853017)
 
 ### Installing
 
